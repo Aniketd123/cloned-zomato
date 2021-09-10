@@ -625,9 +625,9 @@ position: absolute;
 
     background-image: linear-gradient(
         to right,
-        #080302 0%,
-        #702020 51%,
-        #271a0f 100%
+        #ee9685 0%,
+        #e6dbdb 51%,
+        #8a827b 100%
       );
    transform: skewY(10deg);
    margin: 0.4rem 0.4rem;
