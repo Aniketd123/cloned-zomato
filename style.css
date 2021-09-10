@@ -747,9 +747,18 @@ position: absolute;
     /* left: 36rem;
     top: 62rem; */
     color: rgb(146, 0, 0);
-    font-size: 22px;
+    font-size: 45px;
+    font-weight: bold;
+    background-image: linear-gradient(
+        to right,
+        #f0c2ba 0%,
+        #e6cfd9 51%,
+        #a5685c 100%
+      );
+    
    
 }
+
 /* ==================================================================================== */
 .menu-items{
 
