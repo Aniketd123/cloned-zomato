@@ -742,24 +742,24 @@ position: absolute;
 .iframe-para{
    /* position: absolute; */
     padding: 1rem;
-    margin: 0.2rem 4rem;
+    margin: 0.2rem 1rem;
     text-align: center;
     /* left: 36rem;
     top: 62rem; */
-    color: rgb(146, 0, 0);
+    color: rgb(255, 0, 0);
     font-size: 45px;
     font-weight: bold;
-    background-image: linear-gradient(
-        to right,
-        #f0c2ba 0%,
-        #e6cfd9 51%,
-        #a5685c 100%
-      );
+background-color: rgb(255, 255, 255);
     
    
 }
 
 /* ==================================================================================== */
+
+.explore-menu{
+
+    margin-top: 8rem;
+}
 .menu-items{
 
     display: flex;
@@ -773,9 +773,9 @@ position: absolute;
 
     background-image: linear-gradient(
             to right,
-            #080201 0%,
+            #a37d76 0%,
             #e6cfd9 51%,
-            #a54c3a 100%
+            #070403 100%
           );
 }
 .menu-header-container{
@@ -799,12 +799,15 @@ position: absolute;
     font-size: 60px;
     background-image: linear-gradient(
             to right,
-            #794b42 0%,
-            #dd2476 51%,
-            #000000 100%
+            #dda89e 0%,
+            #f3ebef 51%,
+            #0c0909 100%
           );
     transition-delay: 3s;
     transition-duration: 3s;
+}
+.menu-header:hover{
+    font-size: 60px;
 }
 
 
