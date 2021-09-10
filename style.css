@@ -131,6 +131,12 @@ width: 100%;
     justify-content: start;
     flex-direction: column;
     margin: 1rem 0rem;
+    background-image: linear-gradient(
+        to right,
+        #e7735b 0%,
+        #d1d1d1 51%,
+        #947873 100%
+      );
     
 }
     .hero-image-container{
@@ -619,9 +625,9 @@ position: absolute;
 
     background-image: linear-gradient(
         to right,
-        #ff512f 0%,
-        #dd2424 51%,
-        #c5660d 100%
+        #080302 0%,
+        #702020 51%,
+        #271a0f 100%
       );
    transform: skewY(10deg);
    margin: 0.4rem 0.4rem;
